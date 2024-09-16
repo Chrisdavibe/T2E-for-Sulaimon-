@@ -1,4 +1,4 @@
-https://github.com/Chrisdavibe/T2E-for-Sulaimon-.git
+https://github.com/Chrisdavibe/T2E-for-Sulaimon-.py
 
 from telegram.ext import Updater, MessageHandler, Filters
 
